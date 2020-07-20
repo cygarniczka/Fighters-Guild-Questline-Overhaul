@@ -126,13 +126,19 @@ Installation: Standard unpack the files and activate the ESP. Recommended new ga
 Compatibility
 ==================
 Morrowind Rebirth - likely to conflict
+
 Antares' Big Mod  - I examined the mod in CS it should be compatible and it fits nicely when you attain the rank of Master of the Fighters Guild.
+
 Fighters Guild : Reanimation﻿ - should be compatible. I examined the mod in CS and didn't find any conflicts with FGQO
+
 Cloudcleaver for Good Guys - compatible.
+
 Earthly Delights - compatible.
+
 Cutting Room Floor - compatible. Load Cutting Room Floor above/before my mod:
 
 Will conflict with mods that edit scripts:
+
 anoScript
 eydisScript
 lorbumolScript
