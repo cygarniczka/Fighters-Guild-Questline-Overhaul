@@ -67,7 +67,7 @@ Fighters Guild Questline Overhaul includes:
 -almost all Fighters Guild quests now have extra content
 -possibility to side with Sjoring Hard-Heart without turning it into eagerly overenthusiastic venture
 -new alternative ways of completing or failing the Fighters Guild quests while original way of completing quest remains unchanged
-﻿-warn, jail, persuade, chase away, enslave/sell, stage accidental deaths of ( bounty ) targets
+-warn, jail, persuade, chase away, enslave/sell, stage accidental deaths of ( bounty ) targets
 -settle debt quests by killing creditors or debitors, pay debt yourself or forbid creditor from collecting the debt if you're in position of power ( player has House Grandmaster title )
 -how you finish the quests will sometimes have consequences down the road e.g. knowing who is Hrundi's lover can impact Rels Tenim bounty quest.
 -Tamriel Rebuilt content. Be careful who you double cross. Tamriel Rebuilt is not required for mod to function properly.
@@ -75,18 +75,18 @@ Fighters Guild Questline Overhaul includes:
 -new AiPackages and cutscenes
 -time based events
 -possibility to become a steward at Ald'ruhn guild hall:
-﻿-recruit, promote/demote or expel guild members
-﻿-send NPCs on quests which they complete successfully, fail, die or flee from; some will have consequences
-﻿-guild members will refuse to do quests or leave your guild hall if you don't treat them right
-﻿-encounter NPCs you sent on job in Morrowind world
-﻿-possibility to play immoral guild steward. Consequences of failure will apply both to player and NPCs; public executions and exile from Ald'ruhn
-﻿-voiced execution speech for palyer and NPCs. Ruffin Vangarr thank you for the voiceovers. :)
+-recruit, promote/demote or expel guild members
+-send NPCs on quests which they complete successfully, fail, die or flee from; some will have consequences
+-guild members will refuse to do quests or leave your guild hall if you don't treat them right
+-encounter NPCs you sent on job in Morrowind world
+-possibility to play immoral guild steward. Consequences of failure will apply both to player and NPCs; public executions and exile from Ald'ruhn
+-voiced execution speech for palyer and NPCs. Ruffin Vangarr thank you for the voiceovers. :)
 -bully Fargoth or not; witness Hrisskar Flat-Foot harassing the Bosmer
 -interact with and/or work for some Vvardenfell's criminals
 -player who belongs to Camonna Tong will have some quests impacted by faction affiliation ( requires external mod Join Camonna Tong or Camonna Tong mod that uses original Camonna Tong faction ID
 -half dozen new quests and new joinable faction the Verethi Gang ( WIP)
 -guild hall massacre if you play your cards right...
--Pemenie﻿ now has a bounty quest. You can do the quest yourself or send a NPC to do it and encounter your bounty hunter actually doing a job when you go Pemenie's location
+-Pemenie now has a bounty quest. You can do the quest yourself or send a NPC to do it and encounter your bounty hunter actually doing a job when you go Pemenie's location
 -peaceful resolution to Recovering Cloudcleaver quest compatible with Cloudcleaver for Good Guys. Unlike in Cloudcleaver for Good Guys you don't have to kill anyone
 
 
