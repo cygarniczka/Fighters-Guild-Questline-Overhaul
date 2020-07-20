@@ -60,7 +60,9 @@ Mod preserves the original Morrowind Fighters Guild questsline while adding new 
 Fighters Guild Questline Overhaul includes:
 
 -about dozen new quests
+
 -almost all Fighters Guild quests now have extra content
+
 -possibility to side with Sjoring Hard-Heart without turning it into eagerly overenthusiastic venture
 -new alternative ways of completing or failing the Fighters Guild quests while original way of completing quest remains unchanged
 ﻿-warn, jail, persuade, chase away, enslave/sell, stage accidental deaths of ( bounty ) targets
