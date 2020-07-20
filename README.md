@@ -140,14 +140,20 @@ Cutting Room Floor - compatible. Load Cutting Room Floor above/before my mod:
 Will conflict with mods that edit scripts:
 
 anoScript
+
 eydisScript
+
 lorbumolScript
+
 sjoringScript
+
 staceyScript
 
 
 Will conflict with mods that edit NPCs:
+
 Helviane Desele ( minor - dance won't start )
+
 Baurin ( minor she won't forcegreet you if you kill Hard-Heart )
 
 Per request I will provide compatibility patches for conflicting mods that edit vanilla records.
@@ -165,10 +171,15 @@ The chase works on my PC. Here is video from chase: https://streamable.com/6qbtw
 ==========
 Changelog
 ==========
+
 0.34beta - initial release
+
 0.35beta - thanks to TaxAkla for allowing to integrate his Vivec Fighters Guild Refuse Kills mod
 	 - fixed minor error in Percius Mercius kindap script where if you did not leave the cell he wouldn't get kidnapped
 	 - updated Pudai Egg Mine topic to reflect that player found the golden eggs if having high enough reputation 
+	 
+0.351beta - inconsequential fix until proven otherwise
+
 
 ========
 Contact
