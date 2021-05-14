@@ -1,3 +1,5 @@
+https://www.nexusmods.com/morrowind/mods/48447
+
 				Fighters Guild Questline Overhaul
 				By zelazko
 
