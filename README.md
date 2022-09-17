@@ -1,4 +1,6 @@
+The latest version is on nexus not here on github.
 https://www.nexusmods.com/morrowind/mods/48447
+
 
 				Fighters Guild Questline Overhaul
 				By zelazko
